@@ -1,0 +1,19 @@
+﻿node.exe : PASS tests/calculator.test.js
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Users\ADMIN\AppData\Roaming\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (PASS tests/calculator.test.js:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  compute
+    ΓêÜ adds (3 ms)
+    ΓêÜ subs
+    ΓêÜ multiplies (1 ms)
+    ΓêÜ divides
+    ΓêÜ divide by zero (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       5 passed, 5 total
+Snapshots:   0 total
+Time:        3.47 s
+Ran all test suites.
